@@ -1,9 +1,9 @@
-# Aula Introdutória de Git
+# PMR 3304
 
-## 1. Inicializando o repositório
+Esse repositório contém os exercícios propostos em aula para a disciplina PMR3304 - Sistemas de Informação, ministrada no sexto semestre da mecatrônica, em 2023.
 
-Para inicializar o repositório, deve-se entrar numa pasta qualquer e inicializar com:
+## Estrutura
 
-```
-git init
-```
+- **README.md** - Arquivo com a descrição do repositório
+- **hello.txt** - Arquivo com o texto `Hello World!`
+- **.gitignore** - Arquivo com a lista de arquivos a serem ignorados pelo git
