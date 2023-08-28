@@ -1,0 +1,32 @@
+:root {
+    --primary-color: #000000;
+    --secondary-color: #ffffff;
+    --primary-background: #fbfbfc;
+    --article-background: #358597;
+    --cabecalho-background: #F4A896;
+    --article-border-color: #ba5741;
+}
+
+aside {
+    width: 75%;
+    border: 15px solid var(--article-border-color);
+    padding: 50px;
+    margin: 20px;
+    background-color: var(--article-background);
+    color: white;
+}
+
+.cabecalho, .ending {
+    background-color: var(--cabecalho-background);
+    padding: 10px;
+    margin: -15px;
+    text-align: center;
+}
+
+.time-since-posted {
+    font-size:small
+}
+
+.author {
+    font-weight: 100;
+}
