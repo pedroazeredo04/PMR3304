@@ -1,1 +1,4 @@
 build/
+Labs/Lab03/moviesite/moviesite/__pycache__
+Labs/Lab03/moviesite/staticpages/__pycache__
+Labs/Lab03/moviesite/db.sqlite3
